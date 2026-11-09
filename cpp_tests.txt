@@ -1,0 +1,2 @@
+PASS: pricing, mixed dispatch, zero distance, histories, earnings,
+      negative/nonfinite inputs, rating bounds, and null rides.

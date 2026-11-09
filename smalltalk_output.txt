@@ -1,0 +1,9 @@
+Calculated fare: $13
+Standard ride #101: Campus -> Library, 5 miles, fare $13
+Calculated fare: $35.0
+Premium ride #102: Airport -> Hotel, 8 miles, fare $35.0
+Driver #7: Alex, rating 4.9, completed rides 2
+Total earnings: $48.0
+Rider #21: Jordan, requested rides 2
+Standard ride #101: Campus -> Library, 5 miles, fare $13
+Premium ride #102: Airport -> Hotel, 8 miles, fare $35.0

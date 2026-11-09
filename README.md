@@ -6,10 +6,8 @@
 - `main.cpp`: C++17 implementation.
 - `RideSharing.st`: GNU Smalltalk 3.2.5 file-in implementation and demonstration.
 - `tests.cpp`, `tests.st`: automated functional checks.
-- `Ride_Sharing_Assignment_5_Enhanced.docx`: APA-style title page, two-page report, and four evidence figures.
-- `screenshots/*.png`: rendered source and recorded-output captures, **not native application screenshots**.
 - `*_output.txt`, `*_tests.txt`: actual execution and test records.
-- `EVALUATION.md`: assignment requirement review and submission checklist.
+
 
 ## C++
 

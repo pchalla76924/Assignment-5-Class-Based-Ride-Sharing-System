@@ -1,6 +1,5 @@
 # Assignment 5 — Class Based Ride Sharing System
 
-Repository supplied by the author: https://github.com/pchalla76924/Assignment-5-Class-Based-Ride-Sharing-System
 
 ## Files
 
@@ -40,8 +39,4 @@ Standard fare: $3 + $2/mile. Premium fare: $7 + $3.50/mile.
 The demonstration prices rides at $13 and $35 and reports earnings of $48.
 Driver.addRide records a completed ride; Rider.requestRide records a requested ride. No separate dispatch or trip lifecycle is implemented. Smalltalk uses scaled decimal literals for the premium rate and sample rating to provide stable decimal output. Histories remain internal; clients can request counts and earnings.
 
-## Before submission
 
-1. Fill in course and instructor on the title page.
-2. Upload the enhanced source and tests to the repository linked above. These files have **not** been pushed to GitHub during this review.
-3. If native screenshots are required strictly, run both programs locally and replace the clearly labeled rendered captures with actual editor and terminal screenshots.
